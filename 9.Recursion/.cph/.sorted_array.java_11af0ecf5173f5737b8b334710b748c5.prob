@@ -1,0 +1,1 @@
+{"name":"Local: sorted_array","url":"d:\\UPSKILL\\DSA\\9.Recursion\\sorted_array.java","tests":[{"id":1712335679626,"input":"3 1 3 2 3","output":""},{"id":1712336035540,"input":"3 1 1 3 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\UPSKILL\\DSA\\9.Recursion\\sorted_array.java","group":"local","local":true}
