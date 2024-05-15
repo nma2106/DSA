@@ -71,6 +71,15 @@ public class LinkedList {
 
     }
 
+    public void removeFirst()
+    {
+        //int val = head.data;
+        head = head.next;
+        size--;
+        //return val;
+        
+    }
+
     public static void main(String[] args) {
         LinkedList ll = new LinkedList();
         ll.print();
@@ -83,6 +92,8 @@ public class LinkedList {
         ll.addLast(4);
         ll.print();
         ll.add(2, 9);
+        ll.print();
+        ll.removeFirst();
         ll.print();
         //added function in node class
     }
